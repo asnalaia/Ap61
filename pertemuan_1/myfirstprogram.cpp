@@ -20,7 +20,7 @@ int main() {
     scanf(" %c", &kom); // Menambahkan spasi sebelum %c untuk mengatasi masalah dengan karakter baru sebelumnya
 
     printf("Masukkan IP : ");
-    scanf("%f", &ip);
+    scanf("%f", &ip); 
 
     // printf("Nama : %s\n", nama);
     printf("Nama : ");
